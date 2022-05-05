@@ -128,7 +128,7 @@ public class HotPotStore {
 分析：假设买的是重庆地区的火锅
 
 ## 运行结果：
-![运行结果](https://gitee.com/htt1103/se_homework/blob/master/hw7/img/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+![运行结果](https://gitee.com/htt1103/se_homework/raw/master/hw7/img/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 ## 总结：
 1.工厂模式的意义：  
