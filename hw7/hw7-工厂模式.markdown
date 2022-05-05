@@ -1,6 +1,6 @@
 # 工厂方法模式实现火锅订单系统
 ## 类图  
-![类图](https://gitee.com/htt1103/se_homework/blob/master/hw7/img/%E7%B1%BB%E5%9B%BE.jpg)
+![类图](https://gitee.com/htt1103/se_homework/raw/master/hw7/img/%E7%B1%BB%E5%9B%BE.jpg)
 
 ## 关于工厂模式
     1.抽象工厂模式定义了一个interface用于创建相关或有依赖关系的对象簇，而无需指明具体的类。  
