@@ -40,17 +40,17 @@ jobs:
          run: cd ${{ github.workspace }}/hw2/InsertSort
 ```
 ## 二、hw2/InsertSort代码结构
-![代码结构图](hw8/img/code.png)
+![代码结构图](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/code.png)
 ## 三、运行展示
-![allWorkFlows](hw8/img/allWorkFlows.png)
+![allWorkFlows](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/allWorkFlows.png)
 
-![demoJobs.png](demoJobs.png)
+![demoJobs.png](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/demoJobs.png)
 
-![job1](hw8/img/job1.png)
+![job1](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/job1.png)
 
-![job2](hw8/img/job2.png)
+![job2](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/job2.png)
 
-![test](hw8/img/test.png)
+![test](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/test.png)
 
 
 
