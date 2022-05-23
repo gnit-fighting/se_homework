@@ -41,15 +41,20 @@ jobs:
 ```
 ## 二、hw2/InsertSort代码结构
 ![代码结构图](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/code.png)
-## 三、运行展示
+## 三、运行展示   
+点击Actions：有一个workflow：Update demo.yml
 ![allWorkFlows](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/allWorkFlows.png)
 
+点击查看Update demoyml,有两个Jobs：Explore-GitHub-Actions和Mocking-Test
 ![demoJobs.png](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/demoJobs.png)
 
+点击查看Explore-GitHub-Actions：下图展示里细节的steps
 ![job1](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/job1.png)
 
+点击查看Mocking-Test ：下图展示里细节的steps
 ![job2](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/job2.png)
 
+点击查看Mocking-Test的test：发现的确运行测试了hw2/InsertSort中的Java代码
 ![test](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/test.png)
 
 
