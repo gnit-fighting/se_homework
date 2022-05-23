@@ -25,5 +25,5 @@ jobs:
          with:
            java-version: 11
        - name: test
-         run: cd ${{ github.workspace }}/hw2/mock 
+         run: cd ${{ github.workspace }}/hw2/InsertSort
 
