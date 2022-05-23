@@ -40,17 +40,17 @@ jobs:
          run: cd ${{ github.workspace }}/hw2/InsertSort
 ```
 ## 二、hw2/InsertSort代码结构
-![代码结构图](code.png)
+![代码结构图](hw8/img/code.png)
 ## 三、运行展示
-![allWorkFlows](allWorkFlows.png)
+![allWorkFlows](hw8/img/allWorkFlows.png)
 
 ![demoJobs.png](demoJobs.png)
 
-![job1](job1.png)
+![job1](hw8/img/job1.png)
 
-![job2](job2.png)
+![job2](hw8/img/job2.png)
 
-![test](test.png)
+![test](hw8/img/test.png)
 
 
 
