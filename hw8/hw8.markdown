@@ -48,7 +48,7 @@ jobs:
 点击查看Update demoyml,有两个Jobs：Explore-GitHub-Actions和Mocking-Test
 ![demoJobs.png](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/demoJobs.png)
 
-点击查看Explore-GitHub-Actions：下图展示里细节的steps
+点击查看Explore-GitHub-Actions：下图展示了细节的steps
 ![job1](https://github.com/gnit-fighting/se_homework/blob/d823014772b89eaf721019da07074b1de4dc8ce8/hw8/img/job1.png)
 
 点击查看Mocking-Test ：下图展示里细节的steps
